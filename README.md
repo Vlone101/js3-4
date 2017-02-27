@@ -1,0 +1,2 @@
+#the third and fourth hw in GoIT
+- To create an object with methods that will dynamically generate a DOM that [page ](https://raw.githubusercontent.com/goit-fe/markup_fe2o/master/js_03-04/hw_js_03-04.jpg)
